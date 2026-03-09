@@ -1,6 +1,6 @@
 {
   "name": "@psl-copilot/cbe-rule-1114",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Rule description",
   "main": "index.ts",
   "files": [
